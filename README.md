@@ -1,2 +1,3 @@
+[![Board Status](https://dev.azure.com/jeffersondeng1109/5450b5af-04af-4d62-bc1b-78698d0c1a11/cbdd440b-ee1f-4087-b7e9-aeb5cc9079b1/_apis/work/boardbadge/c959cf26-8582-4c09-85a3-28e7022091f7)](https://dev.azure.com/jeffersondeng1109/5450b5af-04af-4d62-bc1b-78698d0c1a11/_boards/board/t/cbdd440b-ee1f-4087-b7e9-aeb5cc9079b1/Microsoft.RequirementCategory)
 # Tutorial: Deploy a Dapr application to Azure Container Apps with an Azure Resource Manager or Bicep template
 Companion repo for Microsoft Docs article [Tutorial: Deploy a Dapr application to Azure Container Apps with an Azure Resource Manager or Bicep template](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-azure-resource-manager?tabs=bash&pivots=container-apps-arm)
